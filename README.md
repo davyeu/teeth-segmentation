@@ -20,10 +20,27 @@ The project include 4 Jupter notbooks:
   <li> <b>Teeth Segmentation</b> : First part of the file is the code for downloading the images to your local folder and split them to training and validation sets.
     The second part of the the project is train and evaluate nvidia/mit-b4 model on the validation sets. The model parametes save in model directory </li>
   <li> <b> evaluate_model</b> : Evalute saved model from model directory on the valiadtion set </li>
-  <li> <b> detectron2_for_teeth_segmentation <b>: using detectron2 model for the tasks of detection and segmentation </li> 
-  <li><b> Detectron2 Tutorial</b> : Detectron2 Beginner's Tutorial </li>
+  <li> <b> detectron2_for_teeth_segmentation </b>: using detectron2 model for the tasks of detection and segmentation </li> 
+  <li> <b> Detectron2 Tutorial</b> : Detectron2 Beginner's Tutorial </li>
 </ul>
 
 <h2> metrics </h2>
 
+<table>
+  <tr>
+  <th> model name </th>
+  <th> kind of metric </th>
+  <th> result</th></tr>
+  <tr>
+    <td> nvidia/mit-b4 </td>
+    <td> Average Dice Score </td>
+    <td> 0.92 </td></tr>
+  <tr>
+    <td> detectron2 </td>
+    <td> Average Dice Score </td>
+    <td> 0.85 </td></tr>  
+  <td> detectron2 </td>
+    <td> Average Recall </td>
+    <td> 0.525 </td></tr> 
+</table>
 <h2> Some image for demonstration </h2>
