@@ -59,4 +59,12 @@ Becuase of space limitation we do not store the image in this repository, instea
     <td> Average Recall </td>
     <td> 0.525 </td></tr> 
 </table>
+
 <h2> Some images for demonstration </h2>
+
+<h2> key points </h2>
+  <ul>
+    <li> Make sure to install all the necessary dependencies listed in the <code> requirements.txt </code> file. </li>
+    <li> Follow the instructions in the <code>Teeth Segmentation </code> notebook to download the dataset and set up your workspace. </li>
+    <li> Results, metrics, and visualizations are saved in the respective notebook outputs.</li>
+  </ul>
