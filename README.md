@@ -13,8 +13,9 @@ Becuase of space limitation we do not store the image in this repository, instea
 
 <div>
   <p>This project includes four Jupyter notebooks:<p>
+  <ol>
   
-  <h3>Teeth Segmentation</h3>
+  <li><h3>Teeth Segmentation</h3></li>
   <ul>
     <li>Downloads the images to your local folder.</li>
     <li>Splits the dataset into training and validation sets.</li>
@@ -22,7 +23,7 @@ Becuase of space limitation we do not store the image in this repository, instea
     <li>Saves the model parameters in the <code>model</code> directory.</li>
   </ul>
   
-  <h3>evaluate_model</h3>
+  <li><h3>evaluate_model</h3></li>
   <ul>
     <li>Evaluates the saved model from the <code>model</code> directory on the validation set.</li>
   </ul>
@@ -36,6 +37,7 @@ Becuase of space limitation we do not store the image in this repository, instea
   <ul>
     <li>A beginner-friendly tutorial for getting started with <strong>Detectron2</strong>.</li>
   </ul>
+  </ol>
 </div>
 
 <h2> metrics </h2>
