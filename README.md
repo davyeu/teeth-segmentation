@@ -12,7 +12,7 @@ Becuase of space limitation we do not store the image in this repository, instea
 <h2> Juptyer notbooks Overview </h2>
 
 <div>
-  <h2>This project includes four Jupyter notebooks:</h2>
+  <p>This project includes four Jupyter notebooks:<p>
   
   <h3>Teeth Segmentation</h3>
   <ul>
