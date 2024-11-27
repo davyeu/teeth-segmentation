@@ -28,12 +28,12 @@ Becuase of space limitation we do not store the image in this repository, instea
     <li>Evaluates the saved model from the <code>model</code> directory on the validation set.</li>
   </ul>
   
-  <h3>detectron2_for_teeth_segmentation</h3>
+  <li><h3>detectron2_for_teeth_segmentation</h3></li>
   <ul>
     <li>Uses the <strong>Detectron2 model</strong> for detection and segmentation tasks.</li>
   </ul>
   
-  <h3>Detectron2 Tutorial</h3>
+  <li><h3>Detectron2 Tutorial</h3></li>
   <ul>
     <li>A beginner-friendly tutorial for getting started with <strong>Detectron2</strong>.</li>
   </ul>
