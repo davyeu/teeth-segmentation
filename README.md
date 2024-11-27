@@ -43,4 +43,4 @@ The project include 4 Jupter notbooks:
     <td> Average Recall </td>
     <td> 0.525 </td></tr> 
 </table>
-<h2> Some image for demonstration </h2>
+<h2> Some images for demonstration </h2>
