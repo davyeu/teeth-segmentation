@@ -61,7 +61,12 @@ Becuase of space limitation we do not store the image in this repository, instea
 </table>
 
 <h2> Some images for demonstration </h2>
-![nvidia mit-b4 prediction mask](teeth-segmentation/images/nvidia mit-b4 prediction mask.png)
+<figure>
+  <img src="images/nvidia mit-b4 prediction mask.png" alt="nvidia mit-b4 prediction mask" width="300">
+  <figcaption> nvidia mit-b4 prediction mask</figcaption>
+</figure>
+
+
 
 <h2> key points </h2>
   <ul>
