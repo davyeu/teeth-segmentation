@@ -70,7 +70,7 @@ Becuase of space limitation we do not store the image in this repository, instea
   <figcaption> detectron2 prediction mask</figcaption>
 </figure>
 <figure>
-  <img src="images/detectron2 teeth detection.png" alt="detectron2 teeth detection" width="750" height="300">
+  <img src="images/detectron2 teeth detection.png" alt="detectron2 teeth detection" width="750" height="600">
   <figcaption> detectron2 teeth detection</figcaption>
 </figure>
 
