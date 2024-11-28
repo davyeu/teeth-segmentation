@@ -61,7 +61,7 @@ Becuase of space limitation we do not store the image in this repository, instea
 </table>
 
 <h2> Some images for demonstration </h2>
-![nvidia mit-b4 prediction mask](images/image)
+![nvidia mit-b4 prediction mask](images/nvidia mit-b4 prediction mask.png)
 
 <h2> key points </h2>
   <ul>
