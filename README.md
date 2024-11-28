@@ -65,7 +65,14 @@ Becuase of space limitation we do not store the image in this repository, instea
   <img src="images/nvidia mit-b4 prediction mask.png" alt="nvidia mit-b4 prediction mask" width="750" height="300">
   <figcaption> nvidia mit-b4 prediction mask</figcaption>
 </figure>
-
+<figure>
+  <img src="images/detectron2 prediction mask.png" alt="detectron2 prediction mask" width="750" height="300">
+  <figcaption> detectron2 prediction mask</figcaption>
+</figure>
+<figure>
+  <img src="images/detectron2 teeth detection.png" alt="detectron2 teeth detection" width="750" height="300">
+  <figcaption> detectron2 teeth detection</figcaption>
+</figure>
 
 
 <h2> key points </h2>
