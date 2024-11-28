@@ -62,7 +62,7 @@ Becuase of space limitation we do not store the image in this repository, instea
 
 <h2> Some images for demonstration </h2>
 <figure>
-  <img src="images/nvidia mit-b4 prediction mask.png" alt="nvidia mit-b4 prediction mask" width="600" height="300">
+  <img src="images/nvidia mit-b4 prediction mask.png" alt="nvidia mit-b4 prediction mask" width="750" height="300">
   <figcaption> nvidia mit-b4 prediction mask</figcaption>
 </figure>
 
